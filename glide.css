@@ -1,0 +1,159 @@
+#slider{
+	background:#02060B;
+	padding:10px;
+	width:668px;
+	margin-bottom:10px;
+	border:1px solid #000000;
+}
+
+ul#sliderContent {
+    width: 670px; 
+	margin-top: 5px;
+	margin-left: 5px;
+	display:inline-block;
+}
+
+li.sliderImage {
+    float: left;
+    position: relative;
+	margin-right:8px;
+	list-style:none;
+}
+
+img.slimg{
+	display:block;
+	width:215px;
+	height:100px;
+}
+.slidhead{
+	font-size:18px;
+	font-weight:bold;
+	color:#fff;
+	margin:0px 0px 5px 5px;
+
+}
+
+
+.inpost{
+	width:215px;
+	color:#AEBEC7;
+}
+
+.inpost h3  {
+	color:#6D829F;
+	margin:10px 0px;
+}
+
+.inpost h3 a {
+	color:#6D829F;
+
+}
+
+
+.clear {
+	clear: both;
+}
+
+.phumb{
+	width:80px;
+	height:60px;
+	float:left;
+	margin:0px 10px;
+}	
+	
+#bottom{
+
+	margin:0px auto;
+
+}
+.bottomcover{
+	margin:0px auto;
+	width:998px;
+
+}	
+h3.bothead{
+
+	height:20px;
+	font-size:16px;
+	padding:10px 0px 10px 10px;
+	color:#99B4DF;
+
+	
+}
+.botwid{
+	float:left;
+	width:230px;
+	padding-bottom:10px;
+	font-size:12px;
+	font-family:Arial,Tahoma,Century gothic,sans-serif;
+	margin:10px 0px 0px 15px;
+	color:#ddd;
+		list-style:none;
+	}
+.botwid ul {
+	list-style-type: none;
+	margin:  0px;
+	padding: 0px 5px 5px 5px ;
+
+	}
+.botwid li{
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+
+	}
+.botwid ul ul  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	background-repeat:no-repeat;
+		}
+
+.botwid ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+	}
+
+.botwid ul ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+
+	}
+
+.botwid ul li {
+	height:100%;
+	line-height:18px;
+	clear: left;	
+	width: 220px;
+	list-style-type: none;
+	}
+	
+.botwid ul li a:link, .botwid ul li a:visited  {
+	
+	color: #8A868F;
+	text-decoration: none;
+	padding: 5px 0px 5px 5px;
+	display:block;
+	border-bottom:1px solid #202B3D;
+
+	}
+
+.botwid ul li a:hover{
+
+	color: #fff;
+	}
+
+.botwid p{
+	padding: 7px 10px;
+	margin:0;
+	}
+
+.botwid table {
+	width:100%;
+	text-align:center;
+	color:#787d7f;
+	}			
